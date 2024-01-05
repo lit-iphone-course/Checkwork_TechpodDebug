@@ -1,9 +1,4 @@
-//
-//  SceneDelegate.swift
-//  CheckWork_Techpod
-//
-//  Created by 大森青 on 2023/12/26.
-//
+
 
 import UIKit
 

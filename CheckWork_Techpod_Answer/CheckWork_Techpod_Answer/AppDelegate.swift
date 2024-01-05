@@ -1,9 +1,4 @@
-//
-//  AppDelegate.swift
-//  CheckWork_Techpod_Answer
-//
-//  Created by 大森青 on 2023/12/21.
-//
+
 
 import UIKit
 import AVFoundation

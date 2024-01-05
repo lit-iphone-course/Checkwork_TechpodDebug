@@ -1,9 +1,7 @@
-//
-//  ViewController.swift
-//  CheckWork_Techpod_Answer
-//
-//  Created by 大森青 on 2023/12/21.
-//
+//MARK: ①起動時に画面が黒くなって何も表示されないね！Storyboardを修正しよう
+//MARK: ②ビルドした際に発生するエラー「Thread 1: Fatal error: Unexpectedly found nil while unwrapping an Optional value」を解決しよう
+//MARK: ③画像が一部表示されないね！表示されるように、「Assets」などを見ながら修正しよう！
+//MARK: ④音を鳴らそうとしてセルをタップするとアプリが落ちてしまうね！修正しよう！
 
 import UIKit
 import AVFoundation
