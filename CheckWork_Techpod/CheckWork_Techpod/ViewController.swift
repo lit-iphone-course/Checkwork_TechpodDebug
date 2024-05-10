@@ -1,7 +1,7 @@
 //MARK: ①起動時に画面が黒くなって何も表示されないね！Storyboardを修正しよう
-//MARK: ②ビルドした際に発生するエラー「Thread 1: Fatal error: Unexpectedly found nil while unwrapping an Optional value」を解決しよう
-//MARK: ③画像が一部表示されないね！表示されるように、「Assets」などを見ながら修正しよう！
-//MARK: ④音を鳴らそうとしてセルをタップするとアプリが落ちてしまうね！修正しよう！
+//MARK: ②ビルドした際に発生するエラー「Thread 1: "unable to dequeue a cell with identifier cell - must register a nib or a class for the identifier or connect a prototype cell in a storyboard"」を解決しよう
+//MARK: ③画像が一部表示されないね！保存されている画像をViewControllerから参照できているか見比べて確認してみよう!
+//MARK: ④音を鳴らそうとしてセルをタップするとアプリが落ちてしまうね！音声ファイルの拡張子はなんだったかな？正しい形式で保存された音声をViewControllerで取得できているか確認してみよう！
 
 import UIKit
 import AVFoundation
